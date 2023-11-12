@@ -6,11 +6,18 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Flutter Version : 3.10.6(stable)
+Dart Version: 3.0.6
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone our Repository then
+2. type "flutter pub get"
+3. run the application
+4. I followed the MVC pattern like
+5. Home view - It contains our UI designs
+6. Home Controller - It contains functionality
+7. App pages and App routes are routing-defined files
+8. main. dart - contained landing page and themes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Developer Info
+Name: Mohana Priya
+Bio: Software Developer passionate about Flutter
